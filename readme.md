@@ -11,9 +11,9 @@ To select an input mode, hold one of these combos while the controller is off:
 +--------------+---------+
 | Guide+West   | XInput  |
 +--------------+---------+
-| Guide+North  | Switch  |
-+--------------+---------+
 | Guide+East   | DInput  |
++--------------+---------+
+| Guide+North  | Switch  |
 +--------------+---------+
 | Guide+South  | Apple   |
 +--------------+---------+
@@ -26,13 +26,13 @@ Button explanation:
 +--------+-------+--------+
 | Guide  | Guide |  Home  |
 +--------+-------+--------+
-| North  |   Y   |   X    |
-+--------+-------+--------+
-| South  |   A   |   B    |
-+--------+-------+--------+
 | West   |   X   |   Y    |
 +--------+-------+--------+
 | East   |   B   |   A    |
++--------+-------+--------+
+| North  |   Y   |   X    |
++--------+-------+--------+
+| South  |   A   |   B    |
 +--------+-------+--------+
 ```
 No license is available because it's 8BitDo's copyright, this repository is offered for the purpose of archival and allowing better use of the controller on Linux.
