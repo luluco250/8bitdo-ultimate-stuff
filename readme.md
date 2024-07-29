@@ -4,6 +4,9 @@ This repository contains random stuff I've collected related to 8BitDo's Ultimat
 
 Specifically the beta firmware is actually better for Linux since it allows explicit input mode selection through shortcuts similar to their pre-Pro 2 controllers:
 
+You can use a Windows virtual machine to flash the firmware, note that you will need to passthrough the USB receiver, not the controller.
+You also need to passthrough a new boot mode device that shows up when you start the firmware update process.
+
 To select an input mode, hold one of these combos while the controller is off:
 ```
 +--------------+---------+ +--------+-------+--------+
