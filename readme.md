@@ -12,15 +12,15 @@ To select an input mode, hold one of these combos within 5 seconds after turning
 +----------------+--------+ +--------+-------+--------+
 | Combo          | Mode   | | Layout | Xbox  | Switch |
 +----------------+--------+ +--------+-------+--------+
-| Select + West  | XInput | | Select | Back  | -      |
+| Select + North | XInput | | Select | Back  | -      |
 +----------------+--------+ +--------+-------+--------+
-| Select + East  | DInput | | Start  | Start | +      |
+| Select + South | DInput | | Start  | Start | +      |
 +----------------+--------+ +--------+-------+--------+
-| Select + North | Switch | | West   | X     | Y      |
+| Select + West  | Switch | | North  | Y     | X      |
 +----------------+--------+ +--------+-------+--------+
-| Start + Select | Auto   | | North  | Y     | X      |
+| Start + Select | Auto   | | South  | A     | B      |
 +----------------+--------+ +--------+-------+--------+
-                            | South  | A     | B      |
+                            | West   | X     | Y      |
                             +--------+-------+--------+
 ```
 No license is available because it's 8BitDo's copyright, this repository is offered for the purpose of archival and allowing better use of the controller on Linux and no copyright violation is intended.
