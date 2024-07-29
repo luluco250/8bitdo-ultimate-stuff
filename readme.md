@@ -6,33 +6,18 @@ Specifically the beta firmware is actually better for Linux since it allows expl
 
 To select an input mode, hold one of these combos while the controller is off:
 ```
-+--------------+---------+
-|    Combo     |  Mode   |
-+--------------+---------+
-| Guide+West   | XInput  |
-+--------------+---------+
-| Guide+East   | DInput  |
-+--------------+---------+
-| Guide+North  | Switch  |
-+--------------+---------+
-| Guide+South  | Apple   |
-+--------------+---------+
-```
-
-Button explanation:
-```
-+--------+-------+--------+
-| Layout | Xbox  | Switch |
-+--------+-------+--------+
-| Guide  | Guide |  Home  |
-+--------+-------+--------+
-| West   |   X   |   Y    |
-+--------+-------+--------+
-| East   |   B   |   A    |
-+--------+-------+--------+
-| North  |   Y   |   X    |
-+--------+-------+--------+
-| South  |   A   |   B    |
-+--------+-------+--------+
++--------------+---------+ +--------+-------+--------+
+|    Combo     |  Mode   | | Layout | Xbox  | Switch |
++--------------+---------+ +--------+-------+--------+
+| Guide+West   | XInput  | | Guide  | Guide |  Home  |
++--------------+---------+ +--------+-------+--------+
+| Guide+East   | DInput  | | West   |   X   |   Y    |
++--------------+---------+ +--------+-------+--------+
+| Guide+North  | Switch  | | East   |   B   |   A    |
++--------------+---------+ +--------+-------+--------+
+| Guide+South  | Apple   | | North  |   Y   |   X    |
++--------------+---------+ +--------+-------+--------+
+                           | South  |   A   |   B    |
+                           +--------+-------+--------+
 ```
 No license is available because it's 8BitDo's copyright, this repository is offered for the purpose of archival and allowing better use of the controller on Linux.
