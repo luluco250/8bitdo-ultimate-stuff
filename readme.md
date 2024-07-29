@@ -25,4 +25,4 @@ To select an input mode, hold one of these combos while the controller is off:
 ```
 No license is available because it's 8BitDo's copyright, this repository is offered for the purpose of archival and allowing better use of the controller on Linux and no copyright violation is intended.
 
-This means no warranty is provided and you're on your own if your controller breaks, you agree to not hold the maintainer(s) of this repository or 8BitDo liable for any damages caused by its use.
+This means no warranty is provided and you're on your own if your controller breaks, do not hold the maintainer(s) of this repository or 8BitDo liable for any damages caused by its use.
